@@ -1,8 +1,5 @@
 ## End-to-End Bank Application Deployment using DevSecOps on AWS EKS
-- This is a multi-tier bank an application written in Java (Springboot).
-
-![Login diagram](images/login.png)
-![Transactions diagram](images/transactions.png)
+This is a multi-tier bank an application written in Java (Springboot) of which I have done DevSecOps part.
 
 ### PRE-REQUISITES FOR THIS PROJECT:
 - AWS Account
@@ -21,10 +18,7 @@
 #
 ### STEPS TO IMPLEMENT THE PROJECT
 - **<p id="Docker">Deployment using Docker</p>**
-  - Clone the repository
-  ```bash
-  git clone -b DevOps https://github.com/DevMadhup/Springboot-BankApp.git
-  ```
+  - Clone this repository
   #
   - Install docker, docker compose and provide neccessary permission
   ```bash
