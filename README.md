@@ -1,8 +1,5 @@
 ## End-to-End Bank Application Deployment using DevSecOps on AWS EKS
-- This is a multi-tier bank an application written in Java (Springboot).
-
-![Login diagram](images/login.png)
-![Transactions diagram](images/transactions.png)
+This is a multi-tier bank an application written in Java (Springboot) of which I have done DevSecOps part.
 
 ### PRE-REQUISITES FOR THIS PROJECT:
 - AWS Account
